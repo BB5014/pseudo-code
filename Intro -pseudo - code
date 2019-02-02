@@ -1,0 +1,8 @@
+Variables 
+    nombreSaisi
+    text= "Bienvenue à la Wild"
+
+DEBUT
+    Répéter text (par pas de nombreSaisi)
+       afficher (text)
+Fin Pour
